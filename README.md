@@ -7,4 +7,4 @@
 
 #### Você pode vizualizar o projeto aqui https://gerenciador-de-contatos-five.vercel.app/
 
-#### Você deve rodar o projeto com 'yarn dev --host' a fim de vizualizar o gerenciador em seu desktop e celular atravez do Network.
+#### Para rodar o projeto ao clonar, use 'yarn dev --host' a fim de vizualizar o gerenciador em seu desktop e celular atravez do Network.
