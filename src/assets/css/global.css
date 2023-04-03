@@ -1,0 +1,37 @@
+.flex-direction {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 768px) {
+  .flex-direction {
+    display: block;
+  }
+}
+
+.card-contact {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  margin-top: 25px;
+  border-radius: 6px;
+  max-height: 500px;
+}
+
+@media (max-width: 768px) {
+  .card-contact {
+    margin-top: 25px;
+    max-height: 300px;
+  }
+}
+
+.font-title {
+  align-self: center;
+  font-size: larger;
+  font-weight: bold;
+}
+  
+@media (max-width: 768px) {
+  .font-title {
+    font-size: large;
+    margin-bottom: 12px;
+  }
+}
